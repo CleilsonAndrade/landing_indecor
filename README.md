@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Busca Git</h1>
+  <h1>Landing InDecor</h1>
   <p>Landing page de um evento de um empresa fictícia, desenvolvido com fins de estudo de HTML semântico, propriedades CSS como media queries para responsividade e flex.</p>
   <img src="./design/desktop.gif" alt="Logo" width="800">
 </div>
