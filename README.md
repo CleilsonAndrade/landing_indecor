@@ -21,10 +21,6 @@ Landing page de um evento de um empresa fictícia, desenvolvido com fins de estu
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
 
-## Features
-- [x] Requisição a API<br>
-
-
 # 💻 <span id="tecnologias">Tecnologias</span>
 - **HTML**
 - **CSS**
